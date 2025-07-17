@@ -5,8 +5,6 @@ Este projeto utiliza Streamlit, Pandas e Plotly para visualizar dados socioecon�
 🔧 Tecnologias utilizadas:
 * Python
 * Streamlit
-* Pandas
-* Plotly
 
 ## 🚀 Como executar o projeto 
 
@@ -18,7 +16,7 @@ cd dados-socioeconomicos-cd
 ### 2. Crie e ative um ambiente virtual (opcional, mas recomendado)
 ```bash
 python -m venv venv
-venv\Scripts\activate
+venv\scripts\activate
 ```
 ### 3. Instale as dependências
 ```bash
